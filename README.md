@@ -7,3 +7,8 @@
 
 > [!IMPORTANT]
 > The repositories of ApkCLI have not been set up yet, as ApkCLI is a work in progress and still has not been completed, any packages here are considered test packages
+
+# License
+This repository is using MIT license
+- **Why?**
+Since this repository will contain other people's packages and *their* work, they all use different licenses, therefore, we do not own any of the packages by any means
