@@ -8,6 +8,8 @@
 > [!IMPORTANT]
 > The repositories of ApkCLI have not been set up yet, as ApkCLI is a work in progress and still has not been completed, any packages here are considered test packages
 
+-# [NOTE] Packages are compressed .tgz files.
+
 # License
 This repository is using MIT license
 - **Why?**
