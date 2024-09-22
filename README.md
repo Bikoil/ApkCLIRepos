@@ -1,3 +1,5 @@
+# Current ApkCLI project is deprecated and moved to [this github org](https://github.com/AndroidPKG), No it's not discontinued, just moved 
+
 <h1 align=center>
  APK CLI Repository
 </h1>
